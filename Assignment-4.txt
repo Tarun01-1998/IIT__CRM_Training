@@ -1,0 +1,5 @@
+ITT Reuqest Management System: This portal manage all the requests of the organization.  
+
+
+Portal link: https://ittrms.powerappsportals.com/
+Github : https://github.com/Tarun01-1998/ITT__CRM_Training
